@@ -5,8 +5,10 @@
 <img src="images/SWAPI_Site_Screenshot.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Android - Simon](/pdf/sample_presentation.pdf)
+<img src="images/main.png?raw=true"/>
+<img src="images/game.png?raw=true"/>
+<img src="images/gameover.png?raw=true"/>
 
 ---
 [Assembly Compiler](http://example.com/)
