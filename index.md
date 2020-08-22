@@ -1,11 +1,8 @@
-## Portfolio
 
----
+### Projects
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SWAPI API Site](/https://github.com/tmuzughi/SWAPI-API)
+<img src="images/SWAPI_Site_Screenshot.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
