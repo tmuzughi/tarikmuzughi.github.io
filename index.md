@@ -1,7 +1,7 @@
 
 ### Projects
 
-[SWAPI API Site](/https://github.com/tmuzughi/SWAPI-API)
+[SWAPI API Site](/SWAPI)
 <img src="images/SWAPI_Site_Screenshot.png?raw=true"/>
 
 ---
