@@ -1,7 +1,7 @@
 
 ### Projects
 
-[SWAPI API Site](/google.com)
+[SWAPI API Site](/pdf/sample_presentation.pdf)
 <img src="images/SWAPI_Site_Screenshot.png?raw=true"/>
 
 ---
